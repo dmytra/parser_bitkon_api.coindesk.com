@@ -1,7 +1,7 @@
 # parser_bitkon_api.coindesk.com
-parser bitkon api.coindesk.com currentprice.json
+parser $ £ € to Bitcoin for api.coindesk.com currentprice.json
 
-parser Bitkon based API: 
+parser Bitcoin based API: 
 https://api.coindesk.com/v1/bpi/currentprice.json
 
 <div>online database Bitcoin DATA API<br>
