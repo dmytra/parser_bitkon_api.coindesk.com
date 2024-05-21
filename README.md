@@ -15,16 +15,20 @@ https://api.coindesk.com/v1/bpi/currentprice.json
 </div>"
 
 Update every 10 sec 
-and Δ = CORRENT - MAX_COURCE 
+
+and Δ = $CORRENT - $ (MAX_COURCE)
+
 ΔUSD: ~
+
 ΔGBP: ~
+
 ΔEUR:~
 
-TODO:
+
+**TODO:**
 
 настолько много TODO что даже нет смисла браться!
 оставляем как есть!
-большой обьем работ!
+большой обьем работ! 
 
- ![Screenshot-2024-05-21-at-15 49 50](https://github.com/dmytra/parser_bitkon_api.coindesk.com/assets/105235692/0d0e338a-50f8-4679-850c-55294875e1f1)
-
+![Screenshot-2024-05-21-at-15 49 50](https://github.com/dmytra/parser_bitkon_api.coindesk.com/assets/105235692/5dd998cf-254d-410f-8e88-13d71c55a4f4)
